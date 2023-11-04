@@ -36,4 +36,4 @@ goormthon fullstack training PBL 04
 
 ### Preview
 
-![spreadsheet-preview](/spreadsheet-preview)
+![spreadsheet-preview](/spreadsheet-preview.png)
